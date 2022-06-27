@@ -5,4 +5,5 @@
 
 body {
   box-sizing: border-box;
+  background-image: linear-gradient(to right, #e0e7ff , #fef9c3);
 }
